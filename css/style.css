@@ -5,9 +5,9 @@ body{
 Base responsive styling
  */
 
- body{
+
     /* background-color: #eee; */
-}
+
 
 /*
 Base Responsive Styling
@@ -30,5 +30,9 @@ Base Responsive Styling
  }
 
  .article-images{
-   width:50%;
+    width: 50%;
+ }
+
+ .featured-image{
+    width: 100%;
  }
