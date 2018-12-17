@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:700');
 @import url('https://fonts.googleapis.com/css?family=Gentium+Book+Basic:400,400i,700,700i');
 @import url('https://fonts.googleapis.com/css?family=Luckiest+Guy');
+@import url('https://fonts.googleapis.com/css?family=Francois+One');
 /* The html and body selectors below set the base font for the entire page */
 html {font-size: 1rem;}
 
@@ -25,7 +26,7 @@ p, li {
 /* Base Styling for headings  */
 h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
-  font-family: Lato, sans-serif;
+  font-family: Lato, Francois One;
 }
 
 /* For each of your headings at minimum set the margin, size, line-height. Adjust font-weight and other properties as needed. */
