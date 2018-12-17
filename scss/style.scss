@@ -79,3 +79,20 @@ body {
   background-color: #2C65E8;
   color: #fff;
 }
+
+@supports (grid-area: auto){
+
+  .article-full{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 3em;
+  }
+
+  .article-header{
+    grid-column: 1/span 2;
+  }
+
+  .article-text{
+
+  }
+}
