@@ -3,8 +3,10 @@
 @import 'nav';
 body{
   //background-color: #FFA500;//
-  #grad {
-  background-image: linear-gradient(red, yellow);
+  #grad1 {
+  height: 200px;
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(red, yellow); /* Standard syntax (must be last) */
 }
 }
 /*
