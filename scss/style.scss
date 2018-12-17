@@ -104,6 +104,10 @@ display: table;
 .article-introduction{
   grid-column: 1/span 2;
   margin: 2em;
+
+  p{
+    font-size:1em;
+  }
 }
 
   .article-header{
