@@ -101,6 +101,10 @@ display: table;
     grid-gap: 3em;
   }
 
+.article-introduction{
+  grid-column: 1/span 2;
+}
+
   .article-header{
     grid-column: 1/span 2;
   }
