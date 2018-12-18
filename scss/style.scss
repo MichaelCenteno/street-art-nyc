@@ -77,7 +77,7 @@ width: 25%;
 padding: 2px;
 }
 
-.clearfix::after {
+.clearfix {
 content: "";
 clear: both;
 display: table;
