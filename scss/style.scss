@@ -83,11 +83,10 @@ clear: both;
 display: table;
 }
 
-/////////.articletitle{
-  ///margin: 1em;
-//}
+/////////*.articletitle{
+  //margin: 1em;}*//
 
-.page-footer{
+.page-footer {
   border-top: 5px solid #2C65E8;
   padding-top: 1em;
   background-color: #2C65E8;
@@ -102,11 +101,11 @@ display: table;
     grid-gap: 3em;
   }
 
-.article-introduction{
+.article-introduction {
   grid-column: 1/span 2;
   margin: 2em;
 
-  p{
+  p {
     font-size:1.2em;
   }
 }
