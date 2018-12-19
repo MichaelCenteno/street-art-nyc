@@ -25,7 +25,7 @@
 #main_nav li a {
   display: block;
   color: #fff;
-  background-color: #555;
+  background-color: #FFD700;
   text-transform: uppercase;
   padding: 0.625em;
   /* 10px in ems is 10/16 */
@@ -35,12 +35,12 @@
 }
 
 #main_nav li a:hover {
-  color: #555;
+  color: #FFD700;
   background-color: #fff;
 }
 
 #main_nav li a:active {
-  color: #555;
+  color: #FFD700;
   background-color: #f90;
 }
 
@@ -52,14 +52,14 @@
 
 .menu a {
   padding: 0.5em 0.625em; /*10/16 */
-  background-color: #555;
+  background-color: #FFD700;
   border-radius: 5px;
   color: #fff;
   text-decoration: none;
 }
 
 .menu a:hover {
-  color: #555;
+  color: #FFD700;
   background-color: #f90;
 }
 
@@ -89,7 +89,7 @@ It should also be noted that there is only one media query because this CSS move
         display: block;
         overflow: hidden;
         /* should be the same as #main_nav li a background color above */
-        background-color: #555;
+        background-color: #FFD700;
     }
     #main_nav li {
         display: inline;
